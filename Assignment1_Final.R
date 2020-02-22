@@ -18,7 +18,6 @@ library(Rlof);
 
 setwd("C:/Users/dvirn/Documents/R/Assignment1")
 rm(list=ls())
-# setwd("C:/Users/eyalri/Desktop/Personal/Studies/Introduction to big data/Assignment1")
 
 
 # 1.c. Import the CSV file " chicago_taxi_data.csv " into R and save it by the name data. 

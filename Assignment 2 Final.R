@@ -20,7 +20,6 @@ library(pROC)
 ################################
 # cat("\014")  
 rm(list=ls())
-# setwd("C:/Users/eyalri/OneDrive - Mellanox/Desktop/Personal/Studies/Introduction to big data/Assignment 2/Assignment2")
 
 setwd("C:/Users/dvirn/Documents/R/Assignment2")
 
