@@ -1,4 +1,4 @@
-# R-projects-Big-Data-courses
+# R-projects-for-Big-Data-courses
 Data Science projects executed in R for different courses (some of them executed with other partners):
   * Assignment 1: Data pre-processing and data exploration (missing values, data normalization and scaling, outliers detection, visualization).
   * Assignment 2: Modeling (Decision Tree and Random Forest, KNN, PCA and ROC, K-means).  
